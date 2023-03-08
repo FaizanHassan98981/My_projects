@@ -1,0 +1,2 @@
+# My_projects
+I've designed this sales dashboard by extracting tables of sales product wise, tables of profit product wise and table of sales region wise from master sales table by using PIVOT TABLE . Then created " Combo box " to select the product from list and then linked the combo box with the tables using OFFSET formula so as to display according to the product category. Also linked column charts for better visualization of these sales and profits category wise . 
